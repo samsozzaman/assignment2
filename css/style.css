@@ -18,10 +18,6 @@ h1{
 .introduction{
     background-color: rgb(255, 248, 249);
 }
-@media (max-width:668px){
-.introduction{
-    grid-template-columns: repeat(1,fr);
-}
 
 }
 #contact-us{
