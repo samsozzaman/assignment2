@@ -1,0 +1,51 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.Colouring{
+    color: tomato;
+}
+.panguine-ul{
+    font-weight: 700;
+}
+h1{
+    font-size: 60px;
+}
+.panguine-button{
+    height: 50px;
+    padding: 0px 30px;
+    border-radius: 10px;
+}
+.introduction{
+    background-color: rgb(255, 248, 249);
+}
+#contact-us{
+    border-radius: 15px;
+}
+
+.catagory img{
+    width: 150px;
+    height: 200px;
+    margin-left: 60px;
+}
+.catagory{
+    background-color: rgb(248, 248, 248);
+    margin: 20px;
+
+}
+
+.catagories{
+ margin: 0px;
+}
+.woman-jacket{
+    float: left;
+}
+.i{
+    height: 20px;
+    width: 20px;
+}
+}
+.different{
+    height: 100px;
+    width: 600px;
+    border: lightslategray 1px solid;
+}
